@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Naxam.AndroidFloatingActionButton.Droid</id>
+    <version>1.10.1</version>
+    <authors>NAXAM CO., LTD</authors>
+    <owners>NAXAM CO., LTD</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/NAXAM/androidfloatingactionbutton-android-binding</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/25535951</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin Binding Library - Android Floating Action Button</description>
+    <releaseNotes>AndroidFloatingActionButton 1.10.1</releaseNotes>
+    <copyright>Copyright (c) 2017 NAXAM</copyright>
+    <tags>FloatingActionButton Naxam Floating Action Button FloatingAction Android ActionButton</tags>
+  </metadata>
+  <files>
+        <file src="Naxam.AndroidFloatingActionButton.Droid/bin/Release/Naxam.AndroidFloatingActionButton.Droid.dll" target="lib/MonoAndroid10/Naxam.AndroidFloatingActionButton.Droid.dll" />
+    </files>
+</package>
